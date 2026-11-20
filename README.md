@@ -43,39 +43,49 @@ MySQL (queries), Excel/Power BI or Python (charts), GitHub (documentation).
 **Insight:** Mark Mateschitz (31) and Lukas Walton (37) are the youngest. Mark Zuckerberg, Dustin Moskovitz and Pavel Durov are tied at 39.
 
 ### Q3. Average age and net worth
-![Q3](screenshots/Q03_averages.png)
+![Q3](Q03_averages.png)
+
 **Insight:** The average age is 69.4 and the average net worth is $31.84B.
 
 ### Q4. Five most represented countries
-![Q4](screenshots/Q04_top5_countries.png)
+![Q4](Q04_top5_countries.png)
 ![Chart](visuals/Q04_top5_countries.png)
+
 **Insight:** The US has 79 billionaires, followed by China (17), India (13), Russia (11) and Germany (11).
 
 ### Q5. Combined net worth per country
-![Q5](screenshots/Q05_networth_by_country.png)
+![Q5](Q05a_networth_by_country.png)
+![Q5](Q05b_networth_by_country.png)
 ![Chart](visuals/Q05_networth_by_country.png)
+
 **Insight:** The US holds $3,130.9B, far ahead of France ($478.8B), India ($434.5B) and China ($387.4B).
 
 ### Q6. Five industries with the most billionaires
-![Q6](screenshots/Q06_top5_industries.png)
+![Q6](Q06_top5_industries.png)
 ![Chart](visuals/Q06_top5_industries.png)
+
 **Insight:** Technology (40), Finance & Investments (32) and Fashion & Retail (30) lead.
 
 ### Q7. Countries with at least five billionaires
-![Q7](screenshots/Q07_countries_5plus.png)
+![Q7](Q07_countries_5plus.png)
 ![Chart](visuals/Q07_countries_5plus.png)
 **Insight:** Only 8 countries qualify: US, China, India, Russia, Germany, Hong Kong, France and Australia.
 
 ### Q8. Total wealth of billionaires under 50
-![Q8](screenshots/Q08_under50_wealth.png)
+![Q8](Q08_under50_wealth.png)
+
 **Insight:** 16 billionaires under 50 hold $508.3B combined.
 
 ### Q9. Billionaires above the average net worth
-![Q9](screenshots/Q09_above_average.png)
+![Q9](Q09a_above_average.png)
+![Q9](Q09b_above_average.png)
+![Q9](Q09c_above_average.png)
+
 **Insight:** 53 of 200 are above the $31.84B average, meaning a few very wealthy individuals pull the average up.
 
 ### Q10. Industry with the highest average net worth
-![Q10](screenshots/Q10_top_industry_avg.png)
+![Q10](Q10_top_industry_avg.png)
+
 **Insight:** Telecom ranks first at $102B, but it has only one billionaire, so the figure is not representative. Technology is next at $43.47B across 40 people.
 
 ### Extra A. Age group breakdown
