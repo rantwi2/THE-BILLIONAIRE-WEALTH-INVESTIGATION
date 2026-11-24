@@ -1,5 +1,6 @@
 # THE BILLIONAIRE WEALTH INVESTIGATION
 
+![](images.jpg)
 ## Introduction
 As a Junior Data Analyst at a global financial research organisation, I analysed the world's 200 richest people (Forbes list) using SQL to understand how wealth is distributed by country, industry and age.
 
